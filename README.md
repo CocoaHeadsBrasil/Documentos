@@ -3,7 +3,8 @@ Documentos  e assets públicos do CocoaHeads Brasil. Os arquivos estão separado
 
 * Illustrator - Arquivos .ai
 * Sketch - Arquivos .sketch
-* Pixelmator/Photoshop - Arquivos .psd e formatos suportados pelo Pixelmator
+* Pixelmator - Arquivos .pxm Pixelmator
+* Other - Outros tipos de arquivos, como .psd etc
 * SVG - Arquivos .svg
 * Exports - Imagens, PDFs e assets exportados para consumo
 
